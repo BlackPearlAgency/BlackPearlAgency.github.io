@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /client-portal.html
-
-Sitemap: https://www.blackpearl.agency/sitemap.xml
